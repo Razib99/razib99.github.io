@@ -1,0 +1,53 @@
+# Site Settings
+title: "Razib Ahsan | Software Engineer"
+description: "Senior Software Engineer specializing in distributed systems, cloud architecture, and full-stack development."
+url: "https://razib99.github.io"
+baseurl: ""
+lang: en
+
+# Author
+author:
+  name: Razib Ahsan
+  email: alex.chen@email.com
+  bio: Senior Software Engineer
+  github: razib99
+  linkedin: alexchen
+
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Sass
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - README.md
+  - LICENSE
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
