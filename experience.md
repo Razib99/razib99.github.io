@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Experience"
-subtitle: "Professional experience spanning distributed systems, cloud architecture, and technical leadership."
+subtitle: "Work history and key accomplishments."
 page_header: true
 permalink: /experience/
 ---

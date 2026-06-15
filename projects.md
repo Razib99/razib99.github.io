@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-subtitle: "A selection of projects I've built or contributed to."
+subtitle: "Selected projects and open-source contributions."
 page_header: true
 permalink: /projects/
 ---

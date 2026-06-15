@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resume"
-subtitle: "Education, certifications, and downloadable resume."
+subtitle: "Education, certifications, and downloadable CV."
 page_header: true
 permalink: /resume/
 ---
