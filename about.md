@@ -38,23 +38,16 @@ permalink: /about/
 
 ## Technical Skills
 
-<div class="skills-grid">
-  <span class="skill-tag">Go</span>
-  <span class="skill-tag">Python</span>
-  <span class="skill-tag">TypeScript</span>
-  <span class="skill-tag">Java</span>
-  <span class="skill-tag">Rust</span>
-  <span class="skill-tag">PostgreSQL</span>
-  <span class="skill-tag">Redis</span>
-  <span class="skill-tag">Kafka</span>
-  <span class="skill-tag">gRPC</span>
-  <span class="skill-tag">GraphQL</span>
-  <span class="skill-tag">AWS</span>
-  <span class="skill-tag">GCP</span>
-  <span class="skill-tag">Kubernetes</span>
-  <span class="skill-tag">Docker</span>
-  <span class="skill-tag">Terraform</span>
-  <span class="skill-tag">CI/CD</span>
-  <span class="skill-tag">Linux</span>
-  <span class="skill-tag">Git</span>
-</div>
+<dl class="skills-list">
+  <dt>Programming Languages</dt>
+  <dd>Go, Rust, Python, C/C++, Java, TypeScript, SQL</dd>
+
+  <dt>Systems &amp; Architecture</dt>
+  <dd>Distributed Consensus, Event-Driven Architectures, Microservices, API Gateways, Cloud Infrastructure</dd>
+
+  <dt>Infrastructure &amp; Tooling</dt>
+  <dd>Kubernetes, Docker, Terraform, AWS, GCP, Linux (Debian/Ubuntu), CI/CD (GitHub Actions)</dd>
+
+  <dt>Data Systems &amp; Storage</dt>
+  <dd>PostgreSQL, Redis, Apache Kafka, gRPC, GraphQL, Elasticsearch</dd>
+</dl>
