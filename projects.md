@@ -8,6 +8,21 @@ permalink: /projects/
 
 <div class="projects-grid">
   <div class="project-card">
+    <h3>Wireless Penetration Testing Lab</h3>
+    <p>A fully portable, headless cybersecurity lab designed for ethical Wi-Fi penetration testing. Implements remote command-line operations using a Raspberry Pi with a dual-adapter interface strategy (control via Tailscale VPN/SSH, attacks via monitor mode).</p>
+    <div class="project-tech">
+      <span>Raspberry Pi</span>
+      <span>Kali Linux</span>
+      <span>Tailscale</span>
+      <span>Aircrack-ng</span>
+      <span>Linux Bash</span>
+    </div>
+    <div class="project-links">
+      <a href="https://github.com/Razib99/Wireless-Penetration-Testing-Lab-Portable-Headless-" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+
+  <div class="project-card">
     <h3>StreamForge</h3>
     <p>High-performance event streaming platform built with Go and Kafka. Supports real-time data processing with exactly-once semantics and horizontal scaling.</p>
     <div class="project-tech">
