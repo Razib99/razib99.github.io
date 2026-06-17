@@ -1,17 +1,17 @@
 # Site Settings
 title: "Razib Ahsan | Software Engineer"
 description: "Senior Software Engineer specializing in distributed systems, cloud architecture, and full-stack development."
-url: "https://razib99.github.io"
+url: "https://Razib99.github.io"
 baseurl: ""
 lang: en
 
 # Author
 author:
-  name: Razib Ahsan
-  email: alex.chen@email.com
+  name: Md. Razib Ahsan
+  email: rajibccz99.ra@gmail.com
   bio: Senior Software Engineer
-  github: razib99
-  linkedin: alexchen
+  github: Razib99
+  linkedin: razib-ahsan-090599
 
 
 # Build Settings

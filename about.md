@@ -8,10 +8,10 @@ permalink: /about/
 
 <div class="about-header">
   <div class="about-avatar">
-    <img src="{{ '/assets/img/avatar.jpeg' | relative_url }}" alt="Razib Ahsan" width="120" height="120">
+    <img src="{{ '/assets/img/avatar.jpeg' | relative_url }}" alt="Md. Razib Ahsan" width="120" height="120">
   </div>
   <div class="about-intro">
-    <p>I'm Razib Ahsan, a software engineer and researcher with over eight years of experience building scalable, resilient systems. I've worked across the stack at companies including Dataflow Systems, CloudScale Inc., and TechNova Solutions — focusing on distributed data pipelines, cloud-native infrastructure, and high-throughput API design. My current interests are in systems performance, distributed consensus, and developer tooling.</p>
+    <p>I'm Md. Razib Ahsan, a software engineer and researcher with over eight years of experience building scalable, resilient systems. I've worked across the stack at companies including Dataflow Systems, CloudScale Inc., and TechNova Solutions — focusing on distributed data pipelines, cloud-native infrastructure, and high-throughput API design. My current interests are in systems performance, distributed consensus, and developer tooling.</p>
   </div>
 </div>
 

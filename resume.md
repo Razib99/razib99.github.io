@@ -20,9 +20,9 @@ permalink: /resume/
   </div>
 
   <div class="education-item">
-    <h3>B.S. Computer Science — University of California, Berkeley</h3>
+    <h3>B.Sc. Computer Science — North South University</h3>
     <p class="education-meta">2011 – 2015</p>
-    <p>Minor: Mathematics. GPA: 3.8/4.0. Dean's List all semesters.</p>
+    <p>Major: Artificial Intelligence</p>
   </div>
 </div>
 
